@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Nazemrap/Coming-soon-page-master
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://nazemrap.github.io/Coming-soon-page-master/
 
 ## My process
 
